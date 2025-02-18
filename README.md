@@ -7,6 +7,7 @@
 
 Данный канал хочу использовать для демонстраци своих навыков в области тестирования.
 
-tools
+### Как связаться со мной: 
+[![Telegram Badge](https://img.shields.io/badge/Telegram-@olyygold-blue?style=flat-square)](https://t.me/olyygold)
 
 folow me 
