@@ -12,8 +12,9 @@
 
 **Образование и сертификация:**
 
-*   Специализированное образование в области тестирования:
-            [<img src="https://img.icons8.com/?size=100&id=21161&format=png&color=000000" alt="" width="24" height="24">](https://drive.google.com/file/d/1SIWqKaohYGVAqqZJxUbvBgZdDyxq14DC/view?usp=drive_link) Тестирование ПО с нуля. Теория + Практика.
+*   Специализированное образование в области тестирования:  
+    * Тестирование ПО с нуля. Теория + Практика. [<img src="https://img.icons8.com/?size=100&id=21162&format=png&color=000000" width="24" height="24"> ](https://drive.google.com/file/d/1SIWqKaohYGVAqqZJxUbvBgZdDyxq14DC/view?usp=drive_link) 
+
 *   Владение SQL.
 *   Подтвержденный опыт успешного участия в краудтестинговых проектах.
 
