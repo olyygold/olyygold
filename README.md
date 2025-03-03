@@ -28,7 +28,7 @@
 
 [<img src="https://img.icons8.com/?size=100&id=5mIvDYZUWDCF&format=png&color=000000" alt="Telegram" width="40" height="40"> ](https://t.me/olyygold)
 
-# Навыки и работы (обновляемый писок)
+# Навыки и работы (обновляемый список)
 В этом разделе представлены мои ключевые навыки и примеры работ, кликабельно сгруппированные по направлениям. Также здесь вы найдете информацию о владении необходимым профессиональным программным обеспечением.
 
 ### [Тестовая документация](https://drive.google.com/drive/folders/1HP-78dSB2oCzPkK3u0FKcz5oaBDOb0Zf?usp=drive_link)
