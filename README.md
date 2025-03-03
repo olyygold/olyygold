@@ -13,13 +13,13 @@
 **Образование и сертификация:**
 
 *   Специализированное образование в области тестирования:  
-    * Тестирование ПО с нуля. Теория + Практика.  [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ](https://drive.google.com/file/d/1SIWqKaohYGVAqqZJxUbvBgZdDyxq14DC/view?usp=drive_link) 
+    * Тестирование ПО с нуля. Теория + Практика. [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ](https://drive.google.com/file/d/1SIWqKaohYGVAqqZJxUbvBgZdDyxq14DC/view?usp=drive_link) 
 
 *   Владение SQL.
-        * SQL для начинающих (ВШЭ) [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ]()
+    * SQL для начинающих (ВШЭ) [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ]()
 
-*   Подтвержденный опыт успешного участия в краудтестинговых проектах.
-        * Приложение для мобильных платежей [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ](https://drive.google.com/file/d/1xJB_zH7cmBefmnMN46dK9AWRyYuMEVkr/view?usp=drive_link)
+*   Краудтестинговые проекты.
+    * Приложение для мобильных платежей [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ](https://drive.google.com/file/d/1xJB_zH7cmBefmnMN46dK9AWRyYuMEVkr/view?usp=drive_link)
 
 **Постоянное развитие:**
 
