@@ -14,7 +14,7 @@
 
 *  Тестирование ПО с нуля. Теория + Практика. [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ](https://drive.google.com/file/d/1SIWqKaohYGVAqqZJxUbvBgZdDyxq14DC/view?usp=drive_link) 
 
-*   SQL для начинающих (ВШЭ) [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ]()
+*   SQL для начинающих (ВШЭ) [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ](https://drive.google.com/file/d/17LlW5NZCA9hCFnK3ztoxBYSL_UoQfRKe/view?usp=sharing)
 
 *   Краудтестинговые проекты. [<img src="https://img.icons8.com/?size=100&id=T5ATsUangzQW&format=png&color=000000" width="30" height="30"> ](https://drive.google.com/file/d/1xJB_zH7cmBefmnMN46dK9AWRyYuMEVkr/view?usp=drive_link)
 
